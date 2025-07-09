@@ -209,10 +209,12 @@ local R6Dances = {
 {Name = "ah yes", ID = 121084882913556},
 {Name = "expldoe", ID = 113901618647384},
 {Divider = true},  
+{Name = "Assumptions 2", ID = 99703499782716},
 {Name = "Club Penguin 2", ID = 116538780276427},
-{Name = "Garry's Dance 2", ID = 116538780276427},
+{Name = "Garry's Dance 2", ID = 139864071438673},
 {Name = "Goat Simulator 2", ID = 108846628611129},
-{Name = "PoPiPo 2", ID = 108846628611129},
+{Name = "PoPiPo 2", ID = 85390639051709},
+{Name = "Mischiev. Function", ID = 99703499782716},
 {Divider = true},  
 }
 
