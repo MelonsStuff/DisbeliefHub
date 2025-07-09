@@ -1,6 +1,6 @@
 
 local R6Dances = {
-{Name = "Boombox Dance", ID = 84471848998012, SoundID = 1839931160},
+{Name = "Boombox Dance", ID = 84471848998012},
 {Divider = true},  
 {Name = "Cafeteria", ID = 111079857314277},
 {Name = "Swag Surfin'", ID = 88245814842699},
